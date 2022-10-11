@@ -1,4 +1,9 @@
-### Hi Developers 👋
+<h1 align="center">Hi Developers <img alt="waveGif" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,My self Likhith Teja G! </h1>
+
+<p>🌱 I’m currently learning: &nbsp;&nbsp;&nbsp; Full Stack web development & Java DSA </p>
+<p>⚡ Fun fact: &nbsp;&nbsp;&nbsp; I am a EEE guy with IT aspirations!</p>
+
+<!--### Hi Developers 👋 -->
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
@@ -9,6 +14,7 @@ I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
+<p>Visitors Count:</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/likhithteja/count.svg)
 
@@ -24,6 +30,9 @@ Languages and Tools:
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
+    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="java" width="40" height="40"/> </a>
+      <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>
