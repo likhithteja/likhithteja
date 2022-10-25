@@ -1,12 +1,16 @@
 * {
  font-family: Poppins;
-
+ color: azure;
 }
 
 header {
     height: 81px;
     background-color: #ce0505;
     position: relative;
+}
+
+main {
+    background-color: rgb(24, 24, 24);    
 }
 
 .logoBg {
@@ -20,7 +24,7 @@ header {
     
 }
 .logoText {
-    color: #3f0a0a;
+    color: #ce0505;
     font-size: 33px;
     font-weight: 600;
     text-decoration: none;
@@ -62,12 +66,12 @@ section {
 aside {
     height: 682px;
     width: 260px;
-    background-color: black;    
+    background-color: rgb(46, 44, 44);    
     box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
 }
 
 .item1 {
-    background-color: black;    
+    background-color: rgb(46, 44, 44);    
     height: 291px;
     width: 794px;
     box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
@@ -79,7 +83,7 @@ aside {
 .item2 {
     height: 291px;
     width: 794px;
-    background-color: black;    
+    background-color: rgb(46, 44, 44);    
     box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
     position: absolute;
     top: 400px;
