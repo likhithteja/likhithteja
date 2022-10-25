@@ -1,0 +1,26 @@
+* {
+ font-family: Poppins;
+ background-color: #fbfbfb;
+}
+
+header {
+    background-color: #ce0505;
+    height: 81px;
+    position: relative;
+}
+
+.logoBg {
+    background-color: #fbfbfb;
+    border-radius: 50%;
+    padding: 16px 21px;
+    position: absolute;
+    top: 12px;
+    left: 81px;
+    
+}
+.logoText {
+    color: #ce0505;
+    font-size: 33px;
+    font-weight: 600;
+    text-decoration: none;
+}
