@@ -63,7 +63,7 @@ section {
 }
 
 aside {
-    padding: 15px 25px;
+    padding: 25px 25px 0px;
     height: 682px;
     width: 234px;
     border-radius: 15px;
@@ -113,6 +113,11 @@ select, option{
 .F-heading{
     margin-top: 18px;
     padding: 5px;
-    font: normal normal normal 14px/21px Poppins;
+    font: normal normal bold 14px/21px Poppins;
+    
 }
 
+.CheckRadio > div {
+    font: normal normal normal 14px/21px Poppins;
+    padding: 3px;
+}
