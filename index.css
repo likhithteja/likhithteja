@@ -5,7 +5,9 @@
 
 header {
     height: 81px;
-    background-color: #ce0505;
+    /* background-color: #ce0505; */
+  background-image: -moz-linear-gradient(225deg, #ce0505 40%, #FF4500 71%);
+background-image: -webkit-gradient(linear, right top, left bottom, color-stop(0.4, #ce0505), color-stop(0.71, #FF4500));
     position: relative;
 }
 
@@ -71,32 +73,25 @@ aside {
     box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
 }
 
-.item1 {
-    background-color: rgb(46, 44, 44);
+.tile {
+  background-color: rgb(46, 44, 44);
     height: 291px;
-    width: 794px;
+    width: 854px;
     border-radius: 15px;
     box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
+  position: relative;
+}
+
+.item1 {
     position: absolute;
     top: 100px;
     left: 350px;
 }
 
 .item2 {
-    height: 291px;
-    width: 794px;
-    background-color: rgb(46, 44, 44);
-    border-radius: 15px;
-    box-shadow: 0 3px 6px 0 rgba(145, 11, 11, 0.24);
     position: absolute;
     top: 400px;
     left: 350px;
-}
-
-.pageNo {
-    position: absolute;
-    bottom: 21px;
-    left: 51%;
 }
 
 select, option{
@@ -117,7 +112,93 @@ select, option{
     
 }
 
-.CheckRadio > div {
+.checkRadio > div {
     font: normal normal normal 14px/21px Poppins;
     padding: 3px;
+}
+
+
+.image {
+  height: 150px;
+  width: 150px;
+  border-radius: 30px;
+  margin: 40px;
+}
+
+.tileContent1 {
+    position: absolute;
+    top: 40px;
+    left: 250px;
+    height: 150px;
+    width: 550px;
+}
+
+.tileContent2 {
+    position: absolute;
+    bottom: 20px;
+    left: 60px;
+    height: 45px;
+    width: 300px;
+  
+}
+
+.T-heading {
+      font: normal normal bold 34px/21px Poppins;
+  margin: 0px;
+}
+
+.text{
+position: relative;
+}
+
+.one{
+  position: absolute;
+  left: 10px;
+  width: 50%;
+}
+
+.two {
+  position: absolute;
+  right: 10px;
+  width: 45%;
+}
+
+.gray {
+  color: #808080;
+}
+
+.t2 {
+  position: relative;
+  top: -15px;
+}
+
+hr {
+  position: relative;
+  bottom: 30px;
+  width: 90%;
+  border-radius: 100%;
+}
+
+.pageNo {
+    position: absolute;
+    bottom: 21px;
+    left: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pageNo>a{
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 27px;
+    width: 30px;
+    margin: 0 6px;
+    padding-top:3px;
+    text-align: center;
+}
+
+a:hover{
+  color: #0000FF;
 }
