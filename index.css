@@ -1,3 +1,7 @@
+*{
+  display
+}
+
 body {
     background: #C6FFDD;
     /* fallback for old browsers */
@@ -56,4 +60,8 @@ h1, p, h2{
 p,
 h2 {
     text-align: center;
+}
+
+footer{
+  
 }
