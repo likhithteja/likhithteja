@@ -1,67 +1,70 @@
-*{
-  display
-}
-
 body {
-    background: #C6FFDD;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #C6FFDD;
+  background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);
+  background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);
 }
 
 img{
-  display: block;
-  border-radius: 50%;
-  height: 250px;
-  width: 250px;
-  margin: auto;
-  border: 3px solid pink;
-  
+display: block;
+border-radius: 50%;
+height: 250px;
+width: 250px;
+margin: auto;
+border: 3px solid pink;
+
 }
 
 h1{
-    font-size: 600%;
-    margin-bottom: 21px;
+  font-size: 600%;
+  margin-bottom: 21px;
 }
 
 h1, p, h2{
-  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
-  color: #F5F5DC;
-  text-align: center;
-  text-shadow: 5px 5px 15px black,
-    -5px -5px 10px pink;
+font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+color: #F5F5DC;
+text-align: center;
+text-shadow: 5px 5px 15px black,
+  -5px -5px 10px pink;
 }
 
 
 .about{
-  margin: auto;
-  width: 87%;
+margin: auto;
+width: 87%;
 }
 
 .glass {
-    margin-top:30px;
-    background: rgba(255, 255, 255, 0.2);
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-    backdrop-filter: blur(3px);
-    -webkit-backdrop-filter: blur(3px);
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.18);
+  margin-top:30px;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  border-radius: 21px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 .clay {
-    backdrop-filter: blur(2px);
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 29px;
-    box-shadow: 35px 35px 68px 0px rgba(255, 87, 0, 0.5), inset -12px -12px 16px 0px rgba(255, 87, 0, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+  backdrop-filter: blur(2px);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 29px;
+  box-shadow: 35px 35px 68px 0px rgba(255, 87, 0, 0.5), inset -12px -12px 16px 0px rgba(255, 87, 0, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
 }
 
 p,
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
-footer{
-  
+.logoTile{
+display:flex;
+margin: auto;
+justify-content: space-around;
+width: 50%;
 }
+
+.socialIcons, .logoTile a{
+border: 2px solid white;
+height: 50px;
+width: 50px;
+}
+
