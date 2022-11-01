@@ -59,11 +59,11 @@ h2 {
 display:flex;
 margin: auto;
 justify-content: space-around;
-width: 50%;
+width: 20%;
 }
 
 .socialIcons, .logoTile a{
-height: 50px;
-width: 50px;
+height: 25px;
+width: 25px;
 }
 
