@@ -55,15 +55,31 @@ h2 {
   text-align: center;
 }
 
-.logoTile{
-display:flex;
-margin: auto;
-justify-content: center;
-width: 20%;
+.logos{
+  display:flex;
+  margin: auto;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
-.socialIcons, .logoTile a{
-height: 30px;
-width: 30px;
+.logos__Skills > img, .logos__Hobbies > img{
+  height: 100px;
+  width: 100px;
+}
+
+.logos__Social{
+  width: 60%;
+}
+
+.socialIcons{
+  height: 100%;
+  width: 100%;
+  border: 1px solid pink;
+}
+
+.logos__Social a{
+  height: 35px;
+  width: 35px;
+  margin:0px 10px;
 }
 
