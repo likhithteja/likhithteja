@@ -58,13 +58,12 @@ h2 {
 .logoTile{
 display:flex;
 margin: auto;
-justify-content: space-around;
+justify-content: center;
 width: 20%;
 }
 
 .socialIcons, .logoTile a{
-height: 25px;
-width: 25px;
-border: 1px solid green;
+height: 30px;
+width: 30px;
 }
 
