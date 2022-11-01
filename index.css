@@ -65,5 +65,6 @@ width: 20%;
 .socialIcons, .logoTile a{
 height: 25px;
 width: 25px;
+border: 1px solid green;
 }
 
